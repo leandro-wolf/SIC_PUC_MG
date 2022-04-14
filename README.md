@@ -9,4 +9,4 @@ Repositório com os documentos relacionados ao TCC.
  - [x] Diagrama de Componentes
  - [x] Diagrama de Implantação
  - [x] Protótipo Navegável do Sistema
- - [x] Planilha Pontos de Função
+ - [x] Planilha de Pontos de Função
