@@ -4,10 +4,9 @@ Repositório com os documentos relacionados ao TCC.
 
 **SIC – Sistema de Informação ao Cidadão**
 
- - [x] Diagrama de casos de uso
- - [x] Protótipo navegável do sistema
- - [x] Diagrama de classes de domínio
- - [x] Modelo de componentes
- - [x] Diagrama de implantação
- - [x] Plano de Testes
- - [x] Estimativa de pontos de função
+ - [x] Diagrama de Casos de Uso
+ - [x] Diagrama de Classes de Domínio
+ - [x] Diagrama de Componentes
+ - [x] Diagrama de Implantação
+ - [x] Protótipo Navegável do Sistema
+ - [x] Planilha Pontos de Função
